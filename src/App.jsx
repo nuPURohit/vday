@@ -39,7 +39,7 @@ export default function App() {
   return (
     <div className="page">
       <div className="card" ref={cardRef}>
-        <h1 className="title">Will you be my Valentine?</h1>
+        <h1 className="title">Hey Vik! Will you be my Valentine?</h1>
 
         <button
           className="yesBtn"
