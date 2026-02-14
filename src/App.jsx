@@ -28,7 +28,7 @@ export default function App() {
     return (
       <div className="page">
         <div className="card cardTall">
-          <h1 className="title">Will you be my Valentine?</h1>
+          <h1 className="title">Hey, Vik! Will you be my Valentine?</h1>
           <div className="yay">YAY! 💖</div>
           <img src="./yay.jpg" className="finalImg" />
         </div>
