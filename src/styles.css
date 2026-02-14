@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  min-height: 100vh;
+  background: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  position: relative;
+  text-align: center;
+  min-width: 300px;
+  min-height: 300px;
+}
+
+.cardTall {
+  min-height: 450px;
+}
+
+.title {
+  margin-bottom: 30px;
+  font-size: 28px;
+}
+
+.yesBtn {
+  background: #ff4d6d;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  font-size: 18px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.noBtn {
+  position: absolute;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.yay {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.finalImg {
+  width: 250px;
+  border-radius: 12px;
+}
