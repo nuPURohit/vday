@@ -30,7 +30,7 @@ export default function App() {
         <div className="card cardTall">
           <h1 className="title">Hey, Vik! Will you be my Valentine?</h1>
           <div className="yay">YAY! 💖</div>
-          <img src="./yay.jpg" className="finalImg" />
+          <img src="./yay.gif" className="finalImg" />
         </div>
       </div>
     );
